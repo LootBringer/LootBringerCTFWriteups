@@ -16,6 +16,8 @@
 <br>
 <h2>DIFFICULTY:</h2> Easy</h2>
 <br>
+<h2>OPERATING SYSTEM USED:</h2> Windows (anything with a browser and access to the internet) (VM)
+<br>
 <h2>HOW TO SOLVE: </h2>
 
 Step 1: I went to the Youtube trailer video (which may have been given in the challenge tab as a link, but can still (potentially) be found via search engine) at: https://www.youtube.com/watch?v=siZPvEGrtNY.
