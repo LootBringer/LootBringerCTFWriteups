@@ -34,7 +34,7 @@ While writing this Writeup, I have realised that the information column tells yo
 ![](../Images/lostassea-flag-thecybercoop2023.PNG)
 
 <strong>Step 3:</strong> Copy the flag (I couldn't directly copy it, so I resorted to hand-typing it) and input it into the 'Flag' box in the challenge tab.
-Flag: flag{Bb4by_5h4rk_do0_d0o_d00_d0o_d0o_1n_th3_s34}
+Flag: flag{b4by_5h4rk_do0_d0o_d00_d0o_d0o_1n_th3_s34}
 
 Likewise to the 2023 - PingCTF 'youtube-trailer' writeup, this challenge was relatively easy in terms of steps and solves. But, I hope this has helped anyone who may have needed it. 
 
